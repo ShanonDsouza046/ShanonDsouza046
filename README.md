@@ -29,7 +29,7 @@ I’m **Shanon Ronleo Dsouza**, a passionate developer currently studying at **J
 ---
 
 ### 📫 How to Reach Me:
-- **Email:** shanondsouza046@gmail.com.com
+- **Email:** shanondsouza046@gmail.com
 - **LinkedIn:** [Shanon Dsouza](https://www.linkedin.com/in/shanonrdsouza/)
 - **GitHub:** [ShanonDsouza046](https://github.com/ShanonDsouza046)
 
