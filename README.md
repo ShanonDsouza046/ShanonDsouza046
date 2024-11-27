@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi! 😊 
 
 I’m **Shanon Ronleo Dsouza**, a passionate developer currently studying at **Jain University**, Bangalore. With experience in internships at **Doifoo Inc.** and **Hindustan Aeronautics Limited (HAL)**, I'm committed to crafting seamless and user-friendly web experiences. I love exploring how technology can solve real-world problems and make an impact.
 
