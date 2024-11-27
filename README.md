@@ -22,10 +22,10 @@ I’m **Shanon Ronleo Dsouza**, a passionate developer currently studying at **J
 ---
 
 ### 💞️ Looking to Collaborate On:
-- Web development projects with real-world applications
-- Innovative ideas that merge creativity with technology
-- Open-source contributions to enhance my coding journey
-
+- Building intuitive web applications
+- Creative and impactful open-source projects
+- Complex and creative software development 
+  
 ---
 
 ### 📫 How to Reach Me:
