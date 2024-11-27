@@ -5,9 +5,9 @@ I’m **Shanon Ronleo Dsouza**, a passionate developer currently studying at **J
 ---
 
 ### 👀 Interests:
-- Frontend Development & Web Design
+- Frontend Development & Web Design 
 - Building Scalable Web Applications
-- Problem-Solving with Code
+- Backend Development 
 - Exploring Emerging Trends in Technology
 
 ---
@@ -15,6 +15,7 @@ I’m **Shanon Ronleo Dsouza**, a passionate developer currently studying at **J
 ### 🌱 Currently Learning:
 - Advanced JavaScript Concepts
 - React and Modern Frontend Frameworks
+- Data Structures and Algorithms
 - Backend Integration & Full-Stack Development
 - Best Practices in UI/UX Design
 
